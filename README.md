@@ -12,7 +12,7 @@ While this project doesn't include an example of every JavaScript feature that w
 The approach taken in this tutorial will set up the process that we'll use throughout the semester. You can expect a similar style of project, tutorial informaiton, and code discussion with each module. For some modules (like this one) I'll expect you to make improvements and changes to the base code as part of a project to submit at the end of the module. For other modules I'll provide some sample code, and perhaps a bit of a base template, but you'll do most of the development from scratch. Expectations will be stated up front for all modules.
 
 In general, the following are the steps you should take for each module tutorial:
-1. If you haven't already done so, accept the [module assignment](https://classroom.github.com/a/RYFj5QbU "Module1-Flood-Fill assignment"). 
+1. If you haven't already done so, accept the [module assignment](https://classroom.github.com/a/79YmonSN "Module1-Flood-Fill assignment"). 
     1. Accepting the assignment will create a new **private** repository in [DGL 213 Applied JavaScript](https://github.com/DGL-213-JavaScript-Fall-2020 "Course Organization"), our course organization on GitHub. **Only you and I** will be able to access this repository.
     2. Make sure you immediately clone a copy of the newly created repository to your computer by using the large green Clone button in the repository.
     3. Find your locally cloned code on your computer and open with Visual Studio Code.
